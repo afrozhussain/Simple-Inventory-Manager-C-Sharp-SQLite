@@ -1,0 +1,34 @@
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\bin\Debug\InvenotyManager.exe
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\bin\Debug\InvenotyManager.pdb
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.Properties.Resources.resources
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.csproj.GenerateResource.Cache
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.exe
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.pdb
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmMain.resources
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmInventoryItem.resources
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmIssueItem.resources
+C:\Users\afroz\Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmItemReceiving.resources
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.exe
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.pdb
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\bin\Debug\InvenotyManager.exe
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\bin\Debug\InvenotyManager.pdb
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\ResolveAssemblyReference.cache
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmInventoryItem.resources
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmIssueItem.resources
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmItemReceiving.resources
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmMain.resources
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.Properties.Resources.resources
+F:\Old Laptop Data\Old Desktop\Kashif Nadeem\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.csproj.GenerateResource.Cache
+F:\git-repos\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.exe
+F:\git-repos\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.pdb
+F:\git-repos\InvenotyManager\InvenotyManager\obj\Debug\ResolveAssemblyReference.cache
+F:\git-repos\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmInventoryItem.resources
+F:\git-repos\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmIssueItem.resources
+F:\git-repos\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmItemReceiving.resources
+F:\git-repos\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.frmMain.resources
+F:\git-repos\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.Properties.Resources.resources
+F:\git-repos\InvenotyManager\InvenotyManager\obj\Debug\InvenotyManager.csproj.GenerateResource.Cache
+F:\git-repos\InvenotyManager\InvenotyManager\bin\Debug\InvenotyManager.exe
+F:\git-repos\InvenotyManager\InvenotyManager\bin\Debug\InvenotyManager.pdb
+F:\git-repos\InvenotyManager\InvenotyManager\bin\Debug\System.Data.SQLite.dll
