@@ -1,14 +1,16 @@
 # Simple-Inventory-Manager-C-Sharp-SQLite
 A sample project made in C# to demonstrate the database integration and management. Application used SQLite database.
 
+Dot.Net 2.0
+
 # Main Screen
-!(images/main.png?raw=true)
+![main screen](images/main.png?raw=true)
 
 # Edit / Add item
-!(images/edit.png?raw=true)
+![Add / Edit Item](images/edit.png?raw=true)
 
 # Item Issuance
-!(images/issue.png?raw=true)
+![Item Issuance](images/item_issue.png?raw=true)
 
 # Item Receving
-!(images/receiving.png?raw=true)
+![Item Receving](images/item_receiving.png?raw=true)
