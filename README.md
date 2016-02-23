@@ -13,4 +13,4 @@ Dot.Net 2.0
 ![Item Issuance](images/item_issue.png?raw=true)
 
 # Item Receving
-![Item Receving](images/item_receiving.png?raw=true)
+![Item Receving](images/item_recv.png?raw=true)
